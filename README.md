@@ -1,0 +1,2 @@
+# 4_Impact_Analysis_of_GoodThoughtNGO_Initiatives_SQL
+ 
